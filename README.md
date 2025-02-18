@@ -1,8 +1,8 @@
-- 👋 Hi, I’m an IT Student in Hannover <Germany>.
+- 👋 Hi, I’m an Computer Engineer.
 - 👀 I’m interested in hardware projects.
 - 🌱 I’m currently learning different languages.
-- 💞️ I’m looking to collaborate on Java. 
-- 📫 How to reach me business@bardia-akhavan.de
+- 💞️ I’m looking to collaborate on C++. 
+- 📫 How to reach me ?
 
 <!---
 abardia/abardia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
